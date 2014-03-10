@@ -66,7 +66,7 @@ include("include/header.php");
         <table style="height:100%; width:100%;">
             <tr>
                 <td>
-                    <div style="overflow:auto;width:98%;height:400px;background-color:black;">
+                    <div style="overflow:auto;width:98%;height:400px;background-color:#47525C;border:groove;border-color:#202122;">
                         <h2 style="color:white;font-family:'WOL_Reg','Segoe UI',Tahoma,Helvetica,sans-serif;" align="center"><u>Fill in your details</u></h2>
                         <form action="alreadybought.php" method="post" name="buyform" style="height:100%;width:100%;"><br>
                             <label class="labels"> Full Name:<br/><label><input type="text" size="50" name="name1"></label></label><br><br>
@@ -90,8 +90,8 @@ include("include/header.php");
                         </form>
                     </div>
                 </td>
-                <td align= "center" height=350px width=40% style="background-color: black;">
-                    <div style="overflow:auto;width:98%;height:400px;background-color:black;">
+                <td align= "center" height=350px width=40% style="background-color: #47525C;border:groove;border-color:#202122;">
+                    <div style="overflow:auto;width:98%;height:400px;background-color:#47525C;">
                      <h2 style="color:white;font-family:'WOL_Reg','Segoe UI',Tahoma,Helvetica,sans-serif;" align="center">
                          <u>The product you chose:</u></h2>
                    

@@ -23,7 +23,7 @@ include("../../include/sidebar.php");
         <br>
         <div class="scrollable">
 
-            <table width="100%" height="100%" bgcolor=#000000 cellpadding="10px">
+            <table width="100%" height="100%" bgcolor=#47525C cellpadding="10px"style="border:groove;border-color:#202122;">
                 <td align="center" height="100%" width="100%">
                     <img src="../../images/loafers/loafer2.jpg" alt="canvas1" style="float:left;"/>
                     <p class="productdetail">Product Details:</p><hr>

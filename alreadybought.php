@@ -55,7 +55,7 @@ include("include/header.php");
         <table style="height:100%; width:100%;">
             <tr>
                 <td>
-                    <div style="overflow:auto;width:98%;height:400px;background-color:black;color:white;">
+                    <div style="overflow:auto;width:98%;height:400px;background-color:#47525C;color:white;border:groove;border-color:#202122;">
                         <br><br>
                         <p class="pepe" align="center">Thank You for shopping in ShoeMart! Your product will be delivered to you shortly!</p><br><br>
                         <p class="pepe1" align="center"> For any queries, please contact our customer care service through toll-free number :
@@ -64,7 +64,7 @@ include("include/header.php");
                     </div>
                     
                 </td>
-                <td height="350px" width=35% bgcolor="black" valign="top" style="overflow:auto;"> <br>
+                <td height="350px" width=35% bgcolor="#47525C" valign="top" style="overflow:auto;border:groove;border-color:#202122;"> <br>
                       <div height="350px" class="productdetail" align="center" valign="top">Shipping Details:</div><hr>
                     <?php $name2 = $_POST['name1'];
                           $address2 = $_POST['address1'];

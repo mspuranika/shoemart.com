@@ -7,7 +7,7 @@ include("include/header.php");
 <html>
     <head>
         <style type="text/css">
-            table.style1{background-color:#000000;}
+            table.style1{background-color:#778899 ;}
             td.bord{border:groove;border-color:white;}
         </style>
         <script type="text/javascript">
@@ -33,7 +33,7 @@ include("include/header.php");
 
         <table width=100% class="style1" cellspacing=20px cellpadding="0">
             <tr>
-                <td width=43%>
+                <td width=43% bgcolor="#47525C" style="border:groove;border-color: #202122;">
                     <table style="margin-left:20px;" cellspacing=10px>
                         <tr><td><a href="categories/canvas/canvas.php"><img src="../shoemart.com/images/slideshow/image6.jpg" height=150px width=150px/></a></td>
                             <td><a href="categories/sports/sports.php"><img src="../shoemart.com/images/slideshow/image7.jpg"height=150px width=150px/></a></td>

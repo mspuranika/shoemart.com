@@ -53,7 +53,7 @@ if(mysql_num_rows($sandalsresult)){?>
      <body>
         <br>
         <div class="scrollable">
-            <table width="100%" height="100%" bgcolor=#000000 cellpadding="10px">
+            <table width="100%" height="100%" bgcolor=#47525C cellpadding="10px"style="border:groove;border-color:#202122;">
            <?php if(mysql_num_rows($sandalsresult)==1){
                $sandalsrow=  mysql_fetch_array($sandalsresult);?>
                 <td align="center" class="imghigt"><a href="/shoemart.com/categories/sandals/<?php echo ($sandalsrow['name']) ?>.php"><img src="/shoemart.com/images/sandals/<?php echo($sandalsrow['name']) ?>.jpg" alt="error" height="200px" width="25%"/>

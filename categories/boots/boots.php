@@ -54,7 +54,7 @@ if(mysql_num_rows($bootresult)){?>
         <br>
         <div class="scrollable">
 
-            <table width="100%" height="100%" bgcolor=#000000 cellpadding="10px">
+            <table width="100%" height="100%" bgcolor=#47525C cellpadding="10px"style="border:groove;border-color:#202122;">
                 <?php if(mysql_num_rows($bootresult)==1){
                 $bootrow= mysql_fetch_array($bootresult);?>
                 <td align="center" class="imghigt"><a href="/shoemart.com/categories/boots/<?php echo ($bootrow['name']) ?>.php"><img src="/shoemart.com/images/boots/<?php echo($bootrow['name']) ?>.jpg" alt="error" height="200px" width="30%"/>

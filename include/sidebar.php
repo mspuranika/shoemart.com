@@ -5,12 +5,13 @@
 *.can {
 	height:450px;
 	width:100%;
-	background-color:#333333;
+	background-color:#778899 ;
 	left:0px;
 	position:relative;
 }
 td.higt {
-	background-color:#000000;
+	background-color:#47525C ;
+         border:groove;border-color:#202122;
 }
 a {
 	color:inherit;
