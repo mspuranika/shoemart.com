@@ -13,7 +13,7 @@ include("include/header.php");
                 padding: 15px;
                 color:white;
             }
-            a{text-decoration:none;color:black;-webkit-border-radius: 10px;-moz-border-radius:10px;height:30px;font-size:18px;}
+            a{text-decoration:none;color:inherit;-webkit-border-radius: 10px;-moz-border-radius:10px;height:30px;font-size:18px;}
             .pepe{font-family:'WOL_Reg','Segoe UI',Tahoma,Helvetica,sans-serif;font-size:22px;}
             .pepe1{font-family:'WOL_Reg','Segoe UI',Tahoma,Helvetica,sans-serif;font-size:18px;}
             .productdetail{font-size:20px;color:white;font-family:'WOL_Reg','Segoe UI',Tahoma,Helvetica,sans-serif;overflow:auto;}

@@ -28,7 +28,7 @@ include("include/header.php");
                 padding: 9px;
                 color:white;
             }
-            a{text-decoration:none;color:black;-webkit-border-radius: 10px;-moz-border-radius:10px;height:30px;font-size:18px;}
+            a{text-decoration:none;color:inherit;-webkit-border-radius: 10px;-moz-border-radius:10px;height:30px;font-size:18px;}
         </style>
         <script type="text/javascript">
             var image1 = new Image();

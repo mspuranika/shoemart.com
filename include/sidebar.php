@@ -52,7 +52,7 @@ body {
   <table cellspacing="20" class="can" cellpadding="0">
     <tr>
       <td width="20%" class="higt" valign="top"><ul>
-          <li><a href="/shoemart.com/index.php">Home</a></li>
+          <li>Do specific search here!</li>
           <hr>
           <li>Gender</li>
           <br>
