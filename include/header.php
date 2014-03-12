@@ -23,7 +23,7 @@
             <td width=1%>
                 <a href="/shoemart.com/index.php"><img src="/shoemart.com/images/logo.jpg" alt="error" height=150em/></a>
             </td>
-            <td width=50% align="left" margin-left=2em background="black">
+            <td width=60% align="left" margin-left=2em background="black">
         <marquee behavior="slide" onmouseover="stop();" onmouseout="start();"><img src="/shoemart.com/images/marquee.jpg" height=120px width=100%/>
         </marquee>
     </td>

@@ -1,6 +1,14 @@
 <?php
 include("../../include/header.php");
 include("../../include/sidebar.php");
+include("/wamp/www/shoemart.com/connectdb.php");
+$_SERVER['REQUEST_URI_PATH'] = parse_url($_SERVER['PHP_SELF'], PHP_URL_PATH);
+$cartseg = explode('/', $_SERVER['REQUEST_URI_PATH']);
+$finalcart = explode('.php', $cartseg[4]);
+$forcart = $finalcart;
+$nameofthisfile = $forcart[0];
+mysql_select_db("cart", $con) or die(mysql_error());
+error_reporting(E_ALL ^ E_NOTICE);
 ?>
 <html>
     <head>
@@ -8,6 +16,7 @@ include("../../include/sidebar.php");
             div.scrollable{float:left;width:75%;height:410px;overflow:auto;}
             *.imghigt{height:150px;width:100px;}
             .productdetail{font-size:20px;color:white;font-family:'WOL_Reg','Segoe UI',Tahoma,Helvetica,sans-serif;}
+             .verydetail{font-size:17px;color:white;font-family:'WOL_Reg','Segoe UI',Tahoma,Helvetica,sans-serif;}
             #checkoutbutton {
                 //width:100px; height:60px;
                 background-color:orange;
@@ -17,6 +26,12 @@ include("../../include/sidebar.php");
                 padding: 15px;
                 color:white;
             }
+            #special{ background-color:orange;
+            padding: 13px;
+                color:white;
+            font-family:'WOL_Reg','Segoe UI',Tahoma,Helvetica,sans-serif;
+            font-size:18px;}
+            
         </style>
     </head>
     <body>
@@ -36,17 +51,49 @@ include("../../include/sidebar.php");
                         <li>Rs.670.00</li><br><br>
                         <li>Khadims</li><br><br>
                         <li>No Warranty</li><br><br>
-                    </ul>
-                    <ul style="float:left;">
-                        <li style="margin-left:50px;" align="left"><br>
-                            <br>
-                            <br>
-                            <a href="../../buy.php" id="checkoutbutton"><b>Buy it!!</b></a></li>
+                    </ul><br><br><br><br><br><br><br><br><br>
+                        <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
+                            This is a very good product from Ruggers, which has a limited warranty upto one year,
+                            indicates that you can use on any kind of whether, on any kind of surface, and for any
+                            kind of work, which seems perfect for you!
+                        </p><br>
 
+                        <div style="float:left;margin-left:100px;">  <br>
+                            <a href="../../buy.php" id="checkoutbutton"><b>Buy it!!</b></a></li></div>
 
-                </td>
+                        <div style="float:left;margin-left: 50px;">  
+                            <?php
+                            $cartquery = "select *from CART where name='$nameofthisfile'";
+                            $cartresult = mysql_query($cartquery);
+                            if (mysql_num_rows($cartresult) == 0) {
+                                ?>
+                                <form action="" method="post" name="cart" id="cart">
+                                    <input type="submit" id="special" name="addtocart" value="Add to cart"></form></li></div>
+                            <?php
+                            if ($_POST['addtocart']) {
+                                $addtocartquery = "insert into CART values('" . $nameofthisfile . "')";
+                                mysql_query($addtocartquery);    
+                                header('refresh: 0; URL='.$_SERVER['PHP_SELF']);
+                            }
+                        } else {
+                            ?>
+                            <div style="float:left;margin-left:00px;">  
+                                <form action="" method="post" name="cart" id="cart">
+                                    <input type="submit" id="special" name="removefromcart" value="Remove from cart"></form></li></div>
+                                    <?php
+                                    if ($_POST['removefromcart']) {
+                                        $removecart = "delete from CART where name='" . $nameofthisfile . "'";
+                                        mysql_query($removecart);
+                                        header('refresh: 0; URL='.$_SERVER['PHP_SELF']);
+                                        
+                                    }
+                                }
+                                ?>
+
+                    </td></tr>
             </table>
 
         </div>
     </body>
 </html>
+
