@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Feb 25, 2014 at 05:53 PM
+-- Generation Time: Mar 12, 2014 at 06:53 PM
 -- Server version: 5.5.25
 -- PHP Version: 5.4.12
 
@@ -16,6 +16,41 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8 */;
 
+--
+-- Database: `admin`
+--
+CREATE DATABASE IF NOT EXISTS `admin` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `admin`;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `admintab`
+--
+
+CREATE TABLE IF NOT EXISTS `admintab` (
+  `name` varchar(30) DEFAULT NULL,
+  `address` varchar(50) DEFAULT NULL,
+  `phoneno` int(12) DEFAULT NULL,
+  `product` varchar(10) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `admintab`
+--
+
+INSERT INTO `admintab` (`name`, `address`, `phoneno`, `product`) VALUES
+('a', 'aa', 12, 'sandals1'),
+('test', 'test', 123, 'boot1'),
+('checking', 'if this works', 1234, 'sandals4'),
+('Shantharam M Puranik', 'bangalore', 123, 'canvas3'),
+('naveen hegde', 'nallk kamba', 12345, 'canvas4'),
+('sharda', 'bangalore', 1234, 'canvas2'),
+('this is working', 'kengeri satellite town', 12345, 'loafer5'),
+('Sahanakka', 'kunigal', 123456, '	'),
+('Sahanakka', 'kunigal', 123, 'canvas3'),
+('dude', 'duduedue', 352, 'loafer1'),
+('ashwini akka', 'bangalore', 1234, 'canvas4');
 --
 -- Database: `boots`
 --
@@ -84,6 +119,22 @@ INSERT INTO `canvasshoe` (`name`, `price`, `gender`, `discount`) VALUES
 ('canvas7', 3500, 'male', 'no'),
 ('canvas8', 2200, 'female', 'yes'),
 ('canvas9', 312, 'female', 'no');
+--
+-- Database: `cart`
+--
+CREATE DATABASE IF NOT EXISTS `cart` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `cart`;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `cart`
+--
+
+CREATE TABLE IF NOT EXISTS `cart` (
+  `name` varchar(10) NOT NULL,
+  PRIMARY KEY (`name`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 --
 -- Database: `loafers`
 --
