@@ -57,9 +57,8 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.540.00</u></b></li>
                     </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            This sparx loafer is very rich in patterns, the dark and light blue shades gives an elegant 
+                            look, it also has got a different material from the inside and a red colored sole.
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>

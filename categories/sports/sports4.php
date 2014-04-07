@@ -57,9 +57,9 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.2200.00</u></b></li>
                     </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            The pink color looks very sexy for women, most carefully designed for athletics.
+                            Specially long running, it gives you a very aaraam feeling, one  year warranty and also
+                            20% discount.
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>

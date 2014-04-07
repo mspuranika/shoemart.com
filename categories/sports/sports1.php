@@ -57,9 +57,8 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.1794.00</u></b></li>
                    </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                           High class comfort, awesome spongy material and a bright black color! All these combine in 
+                           just one product from Nike! Exclusive warranty upto one year. And also, 40% discount only with us.
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>

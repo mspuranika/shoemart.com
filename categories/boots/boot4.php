@@ -57,12 +57,11 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.1194.00</u></b></li>
                     </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            You cannot get this product anywhere else, for this price. Discount is for limited
+                            period only, hurry! A good fashion accessary for winter.
                         </p><br>
 
-                        <div style="float:left;margin-left:425px;">  <br>
+                        <div style="float:left;margin-left:100px;">  <br>
                             <a href="../../buy.php" id="checkoutbutton"><b>Buy it!!</b></a></li></div>
 
                         <div style="float:left;margin-left: 50px;">  

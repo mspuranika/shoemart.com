@@ -57,9 +57,9 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.899.00</u></b></li>
                     </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                      This is so stylish and glossy that nobody can withheld their temptation to buy it!
+                      Indigo Nation gives you the most stylish shoe from their lot! With an astonishing two years
+                      of warranty and 10% discount from our side.
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>

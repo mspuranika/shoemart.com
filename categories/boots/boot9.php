@@ -57,12 +57,11 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.445.00</u></b></li>
                     </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            One of the best makes by Lunar's, this boot has got the thickest sole in it's range.
+                            And also the dark brown color of it adds some style. We give you the flat 50% off!
                         </p><br>
 
-                        <div style="float:left;margin-left:425px;">  <br>
+                        <div style="float:left;margin-left:450px;">  <br>
                             <a href="../../buy.php" id="checkoutbutton"><b>Buy it!!</b></a></li></div>
 
                         <div style="float:left;margin-left: 50px;">  

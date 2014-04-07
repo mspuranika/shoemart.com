@@ -57,9 +57,9 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.495.00</u></b></li>
                    </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            We know women are always in search of above shown kind of shoes, so we are always here
+                            to assist them with plenty of products! This product is from Khadims and we give you flat 50% 
+                            discount! Hurry!!
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>

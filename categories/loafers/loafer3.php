@@ -57,9 +57,9 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.455.00</u></b></li>
                    </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            This shoe from Khadim's has got velvet material, which gives a shiny look and 
+                            the dark blue color adds the extra fashion statement desired! 30% percent discount,
+                            which is only available here.
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>

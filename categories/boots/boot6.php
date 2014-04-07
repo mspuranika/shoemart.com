@@ -57,9 +57,8 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.1305.00</u></b></li>
                     </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            United Colors of Bennington presents its hard-core boot for just 1450.
+                            As usual, UCB provides no warranty, but trust us, we provide only good products.
                         </p><br>
 
                         <div style="float:left;margin-left:100px;">  <br>

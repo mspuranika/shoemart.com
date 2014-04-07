@@ -57,9 +57,9 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.447.00</u></b></li>
                   </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            This is a cheap and best product from sparx, very different in look from other products
+                            in this category. The material of this shoe gives you enough comfort to wear it even on a 
+                            very hot and sunny day.
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>

@@ -57,9 +57,9 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li><b><u>Rs.800.00</u></b></li>
                     </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                          This shoe is funky and sporty too. The black and white combination gives a very stylish look,
+                          and has got very spongy sole inside. 20% discount available from our side, but only for
+                          a limited period. Hurry.
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>

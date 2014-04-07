@@ -53,9 +53,9 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li>2 Years</li><br><br>
                     </ul><br><br><br><br><br><br><br><br><br>
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            This CowBoy boot literally gives a Mexican CowBoy look! It has got the hardest sole
+                            suitable for very rough use. The dark brown color of this shoe gives an elegant look.
+                            It has got the best price of Rs.1450, and warranty upto 2 years!
                         </p><br>
 
                         <div style="float:left;margin-left:100px;">  <br>

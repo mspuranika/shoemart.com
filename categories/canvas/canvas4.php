@@ -54,9 +54,8 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li>2 Years</li><br><br>
                    </ul><br><br><br><br><br><br><br><br><br><hr width="500px">
                         <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                            Lee gives you the red sneakers for just 1750. It has got two years of warranty, which
+                         makes it a fast moving product. Looks cool on pencil fit jeans for teenage guys!
                         </p><br>
 
                         <div style="float:left;margin-left:100px;">  <br>

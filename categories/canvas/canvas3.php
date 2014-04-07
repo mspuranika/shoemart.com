@@ -56,9 +56,8 @@ error_reporting(E_ALL ^ E_NOTICE);
                         <li>1015</li>
                     </ul>
                     <p style="width:550px;float:left;margin-left:30px;"class="verydetail">
-                            This is a very good product from Ruggers, which has a limited warranty upto one year,
-                            indicates that you can use on any kind of whether, on any kind of surface, and for any
-                            kind of work, which seems perfect for you!
+                           The only Lee Cooper product which has got a discount! The sky blue color of the shoe
+                           gives a best look and best suitable for a dayout or during holidays, looks cool on shorts.
                         </p><br>
 
                         <div style="float:left;margin-left:425px;">  <br>
